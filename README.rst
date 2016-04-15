@@ -6,7 +6,7 @@
 tdf.templatecentertheme
 ==============================================================================
 
-Tell me what your product does
+This is a Plone theme add-on for the LibreOffice extensions and templates website.
 
 Features
 --------
@@ -18,7 +18,7 @@ Examples
 --------
 
 This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
+- http://vm141.documentfoundation.org:9090/liboexttempsite
 
 
 Documentation
@@ -32,7 +32,7 @@ Translations
 
 This product has been translated into
 
-- Klingon (thanks, K'Plai)
+- (currently no translation)
 
 
 Installation
@@ -56,7 +56,7 @@ Contribute
 
 - Issue Tracker: https://github.com/collective/tdf.templatecentertheme/issues
 - Source Code: https://github.com/collective/tdf.templatecentertheme
-- Documentation: https://docs.plone.org/foo/bar
+- Documentation: inside the docs folder
 
 
 Support
