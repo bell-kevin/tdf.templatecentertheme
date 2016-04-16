@@ -4933,6 +4933,16 @@ div.project-thumb-thumbzoom img {
 
 #extension_projects,
 #template_projects{
-    width: 100%
+    width: 100%;
     margin-bottom: 2em;
+}
+
+p.current-projects {
+    background-color: #dfe5e8;
+    color:#00A500;
+    font-size: 120%;
+    width: 40%;
+    padding: 1.0em;
+    border-radius: 10px;
+    margin: auto;
 }
