@@ -33,9 +33,14 @@
 
   <drop css:content="#portal-searchbox" />
   <drop css:content="#portal-breadcrumbs" />
+  <drop css:content="#portal-header" />
+
+  <replace css:theme="#portallogo" css:content="#portal-logo" />
 
     <!-- move global nav -->
   <replace css:theme-children="#mainnavigation" css:content-children="#portal-mainnavigation" method="raw" />
+
+  <replace css:theme="#portalanontools" css:content="#portal-anontools" />
 
    <!-- include view @@hero on homepage only -->
   <after css:theme="#mainnavigation-wrapper" css:content=".principal" href="/@@hero" css:if-content="body.template-document_view.section-front-page" />
