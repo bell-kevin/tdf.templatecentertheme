@@ -4940,7 +4940,8 @@ div.project-thumb-thumbzoom img {
     margin-bottom: 2em;
 }
 
-p.current-projects {
+p.current-extensionprojects,
+p.current-templateprojects {
     background-color: #dfe5e8;
     color:#00A500;
     font-size: 120%;
