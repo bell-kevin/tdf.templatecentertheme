@@ -3748,8 +3748,11 @@ ul.picker__list {
   background-color: #00A500;
   color: white;
   position: relative;
-  min-height: 50px;
+    float:top;
+  min-height: 70px;
   margin-bottom: 20px;
+    margin-top: -65px;
+    margin-left:230px;
   border: 1px solid transparent;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.17);
 }
@@ -3880,8 +3883,8 @@ ul.picker__list {
     float: left;
   }
   .plone-navbar-nav > li > a {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
   .plone-navbar-nav.navbar-right:last-child {
     margin-right: -15px;
@@ -4945,4 +4948,13 @@ p.current-projects {
     padding: 1.0em;
     border-radius: 10px;
     margin: auto;
+}
+
+
+#mainnavigation-wrapper {
+    background-color: #00A500;
+}
+
+#portal-logo img {
+    margin-top: 10px;
 }
