@@ -346,17 +346,21 @@ hr {
 body {
   word-wrap: break-word;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: inherit;
-  font-weight: 400;
-  line-height: 1.1;
-  color: inherit;
+
+h1, h2, h3, h4, h5, h6, p, ul, li, table {
+  font-family: 'Lato', sans-serif;
 }
+
+h1 {
+  font-weight: 700;
+  font-size: 73px;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: #4d4d4d;
+  margin: 0;
+}
+
+
 h1,
 h2,
 h3 {
@@ -3752,7 +3756,7 @@ ul.picker__list {
   min-height: 70px;
   margin-bottom: 20px;
     margin-top: -65px;
-    margin-left:230px;
+    margin-left:245px;
   border: 1px solid transparent;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.17);
 }
@@ -4958,4 +4962,6 @@ p.current-templateprojects {
 
 #portal-logo img {
     margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
