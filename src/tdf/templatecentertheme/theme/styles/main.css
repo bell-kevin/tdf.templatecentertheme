@@ -290,12 +290,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #007bb1;
+  color: #00A500;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #004665;
+  color: #626c72;
   text-decoration: underline;
 }
 a:focus {
@@ -4965,3 +4965,4 @@ p.current-templateprojects {
     padding-left: 10px;
     padding-right: 10px;
 }
+
