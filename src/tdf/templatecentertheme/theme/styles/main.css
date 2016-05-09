@@ -4954,3 +4954,50 @@ p.current-templateprojects {
     padding-right: 10px;
 }
 
+
+.grid-row {
+    display: block;
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+div.width-two-thirds {
+    width:66%;
+    padding-right:15px;
+}
+
+#projectresources h2,
+#projectresources h4{
+    background-color:#C0C0C0;
+    border-radius: 0.3em;
+    padding-left: 0.3em;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+    margin-left: -0.5em;
+}
+
+#projectresources h2 {
+    font-size: 1.8em;
+}
+
+
+
+/* EUPRelease */
+
+div.eupcenterreleaseinstallinstructions h3,
+div.eupcenterprojectinstallinstructions h3
+{
+    font-size: 1.5em;
+    background-color:#C0C0C0;
+    border-radius: 0.3em;
+    padding-left: 0.3em;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+    margin-left: -0.5em;
+}
+
+.sidebar {
+    width:33%;
+    float:right;
+}
