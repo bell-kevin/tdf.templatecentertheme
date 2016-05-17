@@ -418,7 +418,8 @@ mark {
 }
 .documentFirstHeading {
   padding-bottom: 9px;
-  margin: 0 0 10px;
+    padding-top:15px;
+  margin: 8px 0 10px;
   border-bottom: 1px solid #cccccc;
 }
 ul,
@@ -4998,6 +4999,5 @@ div.eupcenterprojectinstallinstructions h3
 }
 
 .sidebar {
-    width:33%;
     float:right;
 }
