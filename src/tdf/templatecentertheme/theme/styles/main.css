@@ -3632,6 +3632,7 @@ ul.picker__list {
 }
 #portal-header #portal-anontools ul {
   padding-right: 0px;
+    background-color: red;
 }
 #portal-header #portal-searchbox {
   padding-top: 20px;
@@ -5000,4 +5001,11 @@ div.eupcenterprojectinstallinstructions h3
 
 .sidebar {
     float:right;
+}
+
+
+#portal-anontools a {
+    color:white;
+    font-size: 1.3em;
+    padding-right: 10px;
 }
